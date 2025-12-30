@@ -78,7 +78,8 @@ Ideas that can be implemented in the future
 - Add return functionality to the client. Courier would need to pick up an item and bring it back to the designated warehouse
 - Add delivery date selection and planned delivery date (and time)
 - Make orders separably deliverable: order can be delivered in parts on different days
-- Add different types of couriers: drivers, cyclists, drone etc.
+- Add max capacity of a warehouse
+- Add different types of couriers: drivers, cyclists, drone etc. They will have different delivery capacity and different delivery speed
 - Add different delivery options: regular, fast, express, etc.
 - Split monolith into microservices
 - Use external map API to make the system real
