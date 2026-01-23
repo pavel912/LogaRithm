@@ -59,14 +59,14 @@ The Entity-Relationship Diagram of the database
 # Implementation tasks
 
 | Task Name              | Description                                          | Estimation (Hrs) | Start Date | End Date | Time logged | Status  |
-|------------------------|------------------------------------------------------|------------------|------------|----------|-------------|---------|
-| Database Setup         | Set up a database and add tables                     | 2                |            |          |             | Backlog |
-| Domain Classes         | Create domain classes                                | 3                |            |          |             | Backlog |
-| CRUD                   | Add main controllers                                 | 10               |            |          |             | Backlog |
-| Security               | Add authentication and authorization                 | 3                |            |          |             | Backlog |
-| Path-finding algorithm | Implement algorithm that will find the optimal route | 12               |            |          |             | Backlog |
-| Tests                  | Write integration and unit tests                     | 6                |            |          |             | Backlog |
-| Documenation           | Create an OpenAPI documentation                      | 3                |            |          |             | Backlog |
+|------------------------|------------------------------------------------------|------------------|------------|----------|------------|---------|
+| Database Setup         | Set up a database and add tables                     | 2                | 23.01      | 23.01    | 1          | Done    |
+| Domain Classes         | Create domain classes                                | 3                | 24.01      |          |            | Backlog |
+| CRUD                   | Add main controllers                                 | 10               |            |          |            | Backlog |
+| Security               | Add authentication and authorization                 | 3                |            |          |            | Backlog |
+| Path-finding algorithm | Implement algorithm that will find the optimal route | 12               |            |          |            | Backlog |
+| Tests                  | Write integration and unit tests                     | 6                |            |          |            | Backlog |
+| Documenation           | Create an OpenAPI documentation                      | 3                |            |          |            | Backlog |
 
 # Feature ideas
 Ideas that can be implemented in the future
